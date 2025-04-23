@@ -52,7 +52,7 @@ Apply the country filter
 Scrape all available pages
 Save results to cmmi_data.xlsx
 
-## ustomization Options
+## Customization Options
 Change the target country by modifying:
 
 
